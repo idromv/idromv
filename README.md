@@ -1,6 +1,6 @@
 idromv a.k.a. Matteo
 
-Research assistant in Economics at the University of Naples - Federico II (Italy)
+PhD student in Economics at the University of Naples - Federico II (Italy)
 
 Topics of research/interest:
   - theoretical microeconomics
