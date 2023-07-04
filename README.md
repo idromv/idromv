@@ -3,7 +3,7 @@ idromv a.k.a. Matteo
 PhD student in Economics at the University of Naples - Federico II (Italy)
 
 Topics of research/interest:
-  - theoretical microeconomics
+  - empirical microeconomics
   - economics of organized crime
   - text analysis (Python)
 
