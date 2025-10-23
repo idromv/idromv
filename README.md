@@ -1,6 +1,6 @@
 idromv a.k.a. Matteo
 
-PhD candidate in Economics at the University of Naples - Federico II (Italy)
+PhD Student in Economics at the University of Naples - Federico II (Italy)
 
 Topics of research/interest:
   - Empirical text analysis
