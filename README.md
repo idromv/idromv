@@ -8,7 +8,7 @@ Topics of research/interest:
   - Political Economy and Political Science
   - Law & Economics
 
-Personal website: https://sites.google.com/view/matteovasca
+Personal website: www.matteovasca.com
 
 Selected ongoing projects:
   - _"Treasury Bonds and Government Cohesion: Estimating the Political Bite of Bond Vigilantes"_
