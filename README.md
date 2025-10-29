@@ -1,12 +1,10 @@
-idromv a.k.a. Matteo
-
-PhD Student in Economics at the University of Naples - Federico II (Italy)
-
-Topics of research/interest:
-  - Empirical text analysis
+I am a PhD student in Economics at the University of Naples "Federico II" (Italy).
+I am an applied microeconomist. I use text analysis techniques to explore a range of topics across economics, including:
+  - Political Economy
   - Finance
-  - Political Economy and Political Science
   - Law & Economics
+
+Email address: matteo<dot>vasca<at>unina<dot>it
 
 Personal website: www.matteovasca.com
 
