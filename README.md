@@ -4,7 +4,7 @@ I am an applied microeconomist. I use text analysis techniques to explore a rang
   - Finance
   - Law & Economics
 
-Email address: matteo<dot>vasca<at>unina<dot>it
+Email address: matteo~dot~vasca~at~unina~dot~it
 
 Personal website: www.matteovasca.com
 
