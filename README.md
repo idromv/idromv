@@ -1,5 +1,8 @@
-I am a PhD student in Economics at the University of Naples "Federico II" (Italy).
-I am an applied microeconomist. I use text analysis techniques to explore a range of topics across economics, including:
+PhD Candidate in Economics at the University of Naples "Federico II" (Italy).
+
+**I am on the 2026-2027 Economics Job Market**.
+
+I am an applied microeconomist. My current research agenda focuses on how economic and institutional incentives shape public decision-making, combining empirical methods and text analysis across several areas of economics, including:
 - Political Economy
 - Finance
 - Law & Economics
