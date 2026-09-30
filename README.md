@@ -1,4 +1,4 @@
-PhD Candidate in Economics at the University of Naples "Federico II" (Italy).
+PhD Candidate in Economics at the University of Naples Federico II (Italy).
 
 **I am on the 2026-2027 Economics Job Market**.
 
